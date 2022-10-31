@@ -1,0 +1,17 @@
+colorama==0.4.4
+ipython==8.6.0
+keras_autodoc==0.8.0
+keras_flops==0.1.2
+numpy==1.22.3
+pandas==1.4.2
+prefetch_generator==1.0.1
+pytest==7.2.0
+scikit_learn==1.1.3
+scipy==1.8.0
+setuptools==58.0.4
+tabulate==0.8.9
+tensorflow==2.10.0
+terminaltables==3.1.10
+thop==0.1.1.post2209072238
+torch==1.8.1+cu101
+tqdm==4.64.0
